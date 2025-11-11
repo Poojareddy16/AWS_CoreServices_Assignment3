@@ -83,6 +83,10 @@ amz3bucket/
 
 ---
 
+<img width="943" height="469" alt="crawler_cloudwatch" src="https://github.com/user-attachments/assets/1ae80872-6cca-4fcd-bf72-adb8d8767a75" />
+
+---
+
 ## 📊 7️⃣ Amazon Athena Query Results  
 
 **Database:** `orders_db`  
