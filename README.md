@@ -1,8 +1,6 @@
 # 🧾 AWS Core Services Assignment – ITCS 6190  
 **Name:** Sai Pooja Buttamgari  
-**Course:** Big Data Analytics (ITCS 6190)  
-**University:** UNC Charlotte  
-**Semester:** Fall 2025  
+**Student ID:** 801417886
 
 ---
 
